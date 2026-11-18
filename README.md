@@ -1,4 +1,4 @@
-# 2_2_12_Atividades_DML_BETWEEN
+# Atividades_DML_BETWEEN (o arquivo da atividade está na pasta logo acima!)
 
 ## Instrução 1
 ```SQL
