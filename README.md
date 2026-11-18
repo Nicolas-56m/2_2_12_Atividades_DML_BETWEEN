@@ -1,6 +1,6 @@
 # 2_2_12_Atividades_DML_BETWEEN
 
-/* Instrução 1 */
+## Instrução 1
 ```SQL
 USE vendas_informatica;
 
@@ -9,7 +9,7 @@ WHERE data_cadastro >= "2024-03-01"
 AND data_cadastro <= "2024-04-01";
 ```
 
-/* Instrução 2 */
+## Instrução 2
 ```SQL
 USE vendas_informatica;
 
@@ -19,7 +19,7 @@ WHERE data_cadastro >= "2024-01-01"
 AND data_cadastro < "2024-04-01";
 ```
 
-/* Instrução 3 */
+## Instrução 3
 ```SQL
 USE vendas_informatica;
 
@@ -29,7 +29,7 @@ WHERE data_cadastro >= "2023-01-01"
 AND data_cadastro < "2023-02-01";
 ```
 
-/* Instrução 4 */
+## Instrução 4
 ```SQL
 USE vendas_informatica;
 
@@ -39,7 +39,7 @@ WHERE data_cadastro >= "2023-06-01"
 AND data_cadastro < "2023-06-16";
 ```
 
-/* Instrução 5 */
+## Instrução 5
 ```SQL
 USE vendas_informatica;
 
@@ -49,7 +49,7 @@ WHERE data_venda >= "2025-05-01"
 AND data_venda < "2025-06-01";
 ```
 
-/* Instrução 6 */
+## Instrução 6
 ```SQL
 USE vendas_informatica;
 
@@ -66,7 +66,7 @@ AND venda.data_venda < "2026-01-16"
 ORDER BY venda.preco_unitario_venda DESC;
 ```
 
-/* Instrução 7 */
+## Instrução 7
 ```SQL
 USE vendas_informatica;
 
